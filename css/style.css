@@ -13,4 +13,24 @@
     max-height: 90%;
 }
 
+
 /*main section*/
+body {
+    background-color: rgb(227, 227, 227);
+}
+
+.main-section {
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    width: 80%;
+    background-color: white;
+}
+
+
+/*main functions style*/
+.selected-button {
+    background-color: lightblue;
+
+}
