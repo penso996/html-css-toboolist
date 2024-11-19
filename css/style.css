@@ -35,12 +35,12 @@ main {
     margin-right: 10%;
     padding-top: 20px;
     padding-left: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
     background-color: white;
 }
 
 
-/*main section elements*/
+/*main section elements - buttons*/
 .selected-button {
     font-size: 12px;
     font-weight: bold;
@@ -61,4 +61,16 @@ main {
     border: 1px solid lightgray;
     border-radius: 5px;
 
+}
+
+
+/*main section elements*/
+.sections {
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+.arguments {
+    font-size: 18px;
+    font-weight: bolder;
 }
