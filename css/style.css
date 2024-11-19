@@ -1,0 +1,16 @@
+/*banner*/
+.banner {
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 60px;
+}
+
+.logo {
+    max-width: 90%;
+    max-height: 90%;
+}
+
+/*main section*/
