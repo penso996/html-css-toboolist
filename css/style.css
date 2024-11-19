@@ -40,7 +40,7 @@ main {
 }
 
 
-/*main section elements - buttons*/
+/*main section buttons*/
 .selected-button {
     font-size: 12px;
     font-weight: bold;
@@ -66,11 +66,42 @@ main {
 
 /*main section elements*/
 .sections {
-    margin-top: 50px;
+    margin-top: 40px;
     margin-bottom: 0px;
 }
 
-.arguments {
+.main-text {
     font-size: 18px;
     font-weight: bolder;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.checkmark {
+    margin-top: 10px;
+    font-size: 10px;
+    text-align: center;
+    display: inline-block;
+    color: yellowgreen;
+    border: 1px solid yellowgreen;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+}
+
+.unchecked {
+    margin-top: 10px;
+    font-size: 10px;
+    text-align: center;
+    display: inline-block;
+    color: red;
+    border: 1px solid red;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+}
+
+.argument {
+    margin-left: 10px;
+    margin-right: 10px;
 }
