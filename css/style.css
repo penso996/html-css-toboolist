@@ -105,3 +105,39 @@ main {
     margin-left: 10px;
     margin-right: 10px;
 }
+
+
+/*argument box*/
+.box {
+    padding: 6px;
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+    font-size: 8px;
+    font-weight: bold;
+    color: white;
+}
+
+.box.editorial {
+    background-color: #43aae5;
+}
+
+.box.goals {
+    background-color: #9d73e7;
+}
+
+.box.recruiting {
+    background-color: #68c2aa;
+}
+
+.box.mobile {
+    background-color: #f19e35;
+}
+
+.box.website {
+    background-color: #d9669d;
+}
+
+.box.sales {
+    background-color: #afc727;
+}
